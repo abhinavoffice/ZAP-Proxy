@@ -1,0 +1,3 @@
+https://api.airtel.tv/v2/user/profile/getCurrentPlan?appId=MOBILITY&dt=Phone&os=Android&bn=12641
+https://api.airtel.tv/v2/user/profile/userData?appId=MOBILITY&dt=Phone&os=Android&bn=12641
+https://api.airtel.tv/v2/user/popup?appId=MOBILITY
